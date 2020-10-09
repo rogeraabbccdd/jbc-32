@@ -34,6 +34,7 @@ if ($from === 0) {
 
 for ($i = 0; $i < count($result['PackList']); $i++) {
     $result['PackList'][$i]->extData = false;
+    $result['PackList'][$i]->IsNew = false;
     if ($result['PackList'][$i]->ID >= 10410) {
         if (file_exists('config/packInfo'.$result['PackList'][$i]->ID.'.json')) {
         $subData = json_decode(file_get_contents('config/packInfo'.$result['PackList'][$i]->ID.'.json'));

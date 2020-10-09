@@ -5,7 +5,7 @@
     "ShortComment":"",
     "IsNew":false,
     "Copyright":"",
-    "ArtworkURL":"https://icentral.konmai.co/jbh2/officialPack.png",
+    "ArtworkURL":"officialPack.png",
     "HDArtworkURL":"",
     "RegularPriceJPY":0,
     "ArtistURL":"",
@@ -20,10 +20,10 @@
                 5,
                 7
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321040201.jbt",
+            "ItemURL":"321040201.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321040201.png",
+            "ArtworkURL":"321040201.png",
             "HDArtworkURL":""
         },
         {
@@ -35,10 +35,10 @@
                 5,
                 8
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321040202.jbt",
+            "ItemURL":"321040202.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321040202.png",
+            "ArtworkURL":"321040202.png",
             "HDArtworkURL":""
         },
         {
@@ -50,10 +50,10 @@
                 5,
                 7
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321040203.jbt",
+            "ItemURL":"321040203.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321040203.png",
+            "ArtworkURL":"321040203.png",
             "HDArtworkURL":""
         },
         {
@@ -65,10 +65,10 @@
                 7,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321040204.jbt",
+            "ItemURL":"321040204.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321040204.png",
+            "ArtworkURL":"321040204.png",
             "HDArtworkURL":""
         },
         {
@@ -80,10 +80,10 @@
                 6,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321040801.jbt",
+            "ItemURL":"321040801.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321040801.png",
+            "ArtworkURL":"321040801.png",
             "HDArtworkURL":""
         },
         {
@@ -95,10 +95,10 @@
                 6,
                 8
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321040802.jbt",
+            "ItemURL":"321040802.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321040802.png",
+            "ArtworkURL":"321040802.png",
             "HDArtworkURL":""
         },
         {
@@ -110,10 +110,10 @@
                 5,
                 8
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321040803.jbt",
+            "ItemURL":"321040803.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321040803.png",
+            "ArtworkURL":"321040803.png",
             "HDArtworkURL":""
         },
         {
@@ -125,10 +125,10 @@
                 5,
                 8
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321040804.jbt",
+            "ItemURL":"321040804.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321040804.png",
+            "ArtworkURL":"321040804.png",
             "HDArtworkURL":""
         },
         {
@@ -140,10 +140,10 @@
                 7,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041001.jbt",
+            "ItemURL":"321041001.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041001.png",
+            "ArtworkURL":"321041001.png",
             "HDArtworkURL":""
         },
         {
@@ -155,10 +155,10 @@
                 6,
                 8
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041002.jbt",
+            "ItemURL":"321041002.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041002.png",
+            "ArtworkURL":"321041002.png",
             "HDArtworkURL":""
         },
         {
@@ -170,10 +170,10 @@
                 7,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041003.jbt",
+            "ItemURL":"321041003.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041003.png",
+            "ArtworkURL":"321041003.png",
             "HDArtworkURL":""
         },
         {
@@ -185,10 +185,10 @@
                 5,
                 8
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041004.jbt",
+            "ItemURL":"321041004.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041004.png",
+            "ArtworkURL":"321041004.png",
             "HDArtworkURL":""
         },
         {
@@ -200,10 +200,10 @@
                 7,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041005.jbt",
+            "ItemURL":"321041005.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041005.png",
+            "ArtworkURL":"321041005.png",
             "HDArtworkURL":""
         },
         {
@@ -215,10 +215,10 @@
                 7,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041006.jbt",
+            "ItemURL":"321041006.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041006.png",
+            "ArtworkURL":"321041006.png",
             "HDArtworkURL":""
         },
         {
@@ -230,10 +230,10 @@
                 7,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041007.jbt",
+            "ItemURL":"321041007.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041007.png",
+            "ArtworkURL":"321041007.png",
             "HDArtworkURL":""
         },
         {
@@ -245,10 +245,10 @@
                 5,
                 7
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041008.jbt",
+            "ItemURL":"321041008.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041008.png",
+            "ArtworkURL":"321041008.png",
             "HDArtworkURL":""
         },
         {
@@ -260,10 +260,10 @@
                 5,
                 8
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041401.jbt",
+            "ItemURL":"321041401.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041401.png",
+            "ArtworkURL":"321041401.png",
             "HDArtworkURL":""
         },
         {
@@ -275,10 +275,10 @@
                 6,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041402.jbt",
+            "ItemURL":"321041402.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041402.png",
+            "ArtworkURL":"321041402.png",
             "HDArtworkURL":""
         },
         {
@@ -290,10 +290,10 @@
                 6,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041403.jbt",
+            "ItemURL":"321041403.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041403.png",
+            "ArtworkURL":"321041403.png",
             "HDArtworkURL":""
         },
         {
@@ -305,10 +305,10 @@
                 5,
                 8
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/321041404.jbt",
+            "ItemURL":"321041404.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/321041404.png",
+            "ArtworkURL":"321041404.png",
             "HDArtworkURL":""
         },
         {
@@ -2306,7 +2306,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321143001_QRCxAbhz.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321143001_sidx_EJRpFyVs.m4a&id=321143001&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/zhen-xianobeeeeeeam./id975456857?i=975456866&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321143001_art_s_XUEFbgJW.jpg",
+            "ArtworkURL":"321143001.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2321,7 +2321,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321143002_mbMpQBXe.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321143002_sidx_HsBRYSGn.m4a&id=321143002&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/school-days/id975456857?i=975457850&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321143002_art_s_XUEFbgJW.jpg",
+            "ArtworkURL":"321143002.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2336,7 +2336,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321143003_UdcodymF.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321143003_sidx_wpQkvKDH.m4a&id=321143003&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/wangrenaiplace/id975456857?i=975457852&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321143003_art_s_XUEFbgJW.jpg",
+            "ArtworkURL":"321143003.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2351,7 +2351,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321143004_YvdtEVxJ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321143004_sidx_YfYGbkfW.m4a&id=321143004&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/liannosankuchuari!/id975456857?i=975457853&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321143004_art_s_XUEFbgJW.jpg",
+            "ArtworkURL":"321143004.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2486,7 +2486,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142901_FdjFctgF.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142901_sidx_jinJjLhy.m4a&id=311142901&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/black-white/id592659173?i=592659467&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142901_art_s_dFNqXJhX.jpg",
+            "ArtworkURL":"311142901.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2501,7 +2501,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142902_YdebDahQ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142902_sidx_eakLPhSc.m4a&id=311142902&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/darakena/id855007216?i=855007248&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142902_art_s_WMkkibXL.jpg",
+            "ArtworkURL":"311142902.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2516,7 +2516,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142903_crUoEaMT.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142903_sidx_xxFUkLVo.m4a&id=311142903&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/qi-heiwo-turitsubuse/id928274077?i=928274083&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142903_art_s_YrjWJHrX.jpg",
+            "ArtworkURL":"311142903.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2531,7 +2531,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142904_FcRPSMFM.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142904_sidx_gKrEcJfN.m4a&id=311142904&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/d.o.b./id1018792692?i=1018792696&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142904_art_s_UHDCdAgd.jpg",
+            "ArtworkURL":"311142904.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2786,7 +2786,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142205_pTnDHHgv.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142205_sidx_vEtqjhFD.m4a&id=311142205&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/meng-separedo/id985101124?i=985101577&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142205_art_s_faPmocxh.jpg",
+            "ArtworkURL":"311142205.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2801,7 +2801,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142206_pbjNjYdd.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142206_sidx_PfeDoMec.m4a&id=311142206&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/my-best-friends/id985101124?i=985101578&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142206_art_s_KjsQwzYd.jpg",
+            "ArtworkURL":"311142206.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2816,7 +2816,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142207_tzwWpomu.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142207_sidx_TrFHkySU.m4a&id=311142207&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/kiramekiirosamareinbo/id1033089028?i=1033089032&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142207_art_s_uGBpDJrz.jpg",
+            "ArtworkURL":"311142207.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2831,7 +2831,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142208_hYLQqnBp.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142208_sidx_mLDZgJpt.m4a&id=311142208&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/shirotsumekusano-yue-shu/id1033089028?i=1033089031&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142208_art_s_pqNQicnX.jpg",
+            "ArtworkURL":"311142208.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2966,7 +2966,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142701_ahQJkoMA.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142701_sidx_pEvyZDaj.m4a&id=311142701&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/jue-mie-wei-yu-shao-nu!/id815989919?i=815989928&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142701_art_s_oZDopawb.jpg",
+            "ArtworkURL":"311142701.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2981,7 +2981,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142702_fVMbTYKH.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142702_sidx_pcTeQszv.m4a&id=311142702&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/tao-sefantaji/id896501866?i=896501872&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142702_art_s_PMsoNdTR.jpg",
+            "ArtworkURL":"311142702.png",
             "HDArtworkURL":"null"
         },
         {
@@ -2996,7 +2996,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142703_UtgVuikj.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142703_sidx_carSRQLX.m4a&id=311142703&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/momokyunsodo/id896501866?i=896501873&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142703_art_s_WYRBDquG.jpg",
+            "ArtworkURL":"311142703.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3011,7 +3011,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311142704_zhxYGWeW.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311142704_sidx_TgHaDbbH.m4a&id=311142704&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/ju-jutemu-komyunikeshon/id1016354195?i=1016354197&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311142704_art_s_jEUeMski.jpg",
+            "ArtworkURL":"311142704.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3086,7 +3086,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341142801_MCexRHAG.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341142801_sidx_qVGxpXoV.m4a&id=341142801&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/sub-objective/id1056045682?i=1056045956&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341142801_art_s_UgXYrqZA.jpg",
+            "ArtworkURL":"341142801.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3101,7 +3101,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341142802_rUkTcjHR.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341142802_sidx_BNVunGig.m4a&id=341142802&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/citi/id1056045682?i=1056045952&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341142802_art_s_UgXYrqZA.jpg",
+            "ArtworkURL":"341142802.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3116,7 +3116,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142803_rjzwJgHy.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142803_sidx_VaEHvwaT.m4a&id=321142803&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/sunrise-re-build/id1056045682?i=1056045965&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142803_art_s_UgXYrqZA.jpg",
+            "ArtworkURL":"321142803.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3131,7 +3131,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341142804_MyfrjxRu.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341142804_sidx_uAaZzWhG.m4a&id=341142804&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/patchiwaku/id1056045682?i=1056045892&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341142804_art_s_UgXYrqZA.jpg",
+            "ArtworkURL":"341142804.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3266,7 +3266,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142601_cFyeeUzi.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142601_sidx_HStreVME.m4a&id=321142601&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/na-shizuku/id401876582?i=401876625&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142601_art_s_vWwiaQdi.jpg",
+            "ArtworkURL":"321142601.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3281,7 +3281,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142602_PDJfFKRZ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142602_sidx_MAczTCnQ.m4a&id=321142602&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/bloody-holic-add-chorus-mix/id983127100?i=983127183&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142602_art_s_XiiUzyiV.jpg",
+            "ArtworkURL":"321142602.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3296,7 +3296,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142603_PpUTTdWq.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142603_sidx_DQbazaSK.m4a&id=321142603&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/shan-guangnoprisoner/id803941923?i=803941925&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142603_art_s_qAiqrkbj.jpg",
+            "ArtworkURL":"321142603.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3311,7 +3311,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341142604_SJiifAGo.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341142604_sidx_LkWJupBw.m4a&id=341142604&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/live-on-!-add-trance-mix-2015/id983127100?i=983127185&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341142604_art_s_NNUrDdPt.jpg",
+            "ArtworkURL":"341142604.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3626,7 +3626,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341360101_LAQJxRoW.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341360101_sidx_qRUEdELd.m4a&id=341360101&target=JP",
             "iTunesURL":"null",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341360101_art_s_tPneaHik.jpg",
+            "ArtworkURL":"341360101.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3641,7 +3641,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341203201_VodwVDAZ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341203201_sidx_SbVbHorj.m4a&id=341203201&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/wakuwakumairaifu/id976517600?i=976517604&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341203201_art_s_idGAQYiN.jpg",
+            "ArtworkURL":"341203201.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3656,7 +3656,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341203202_foPqetsF.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341203202_sidx_hjEePSLm.m4a&id=341203202&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/jin-rikurai/id976517600?i=976517605&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341203202_art_s_VFRwAecM.jpg",
+            "ArtworkURL":"341203202.png",
             "HDArtworkURL":"null"
         },
         {
@@ -3671,7 +3671,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341203203_KXoEEcbR.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341203203_sidx_xennbvUd.m4a&id=341203203&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/yeyo-mingkenaide/id1018167525?i=1018167534&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341203203_art_s_ZBinZypb.jpg",
+            "ArtworkURL":"341203203.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4115,7 +4115,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142501_xXgPPjYZ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142501_sidx_FQNGfUnM.m4a&id=321142501&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/buru-firudo/id723295063?i=723295162&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142501_art_s_bsrDkkBJ.jpg",
+            "ArtworkURL":"321142501.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4130,7 +4130,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142502_rxJvyfpV.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142502_sidx_uVCvNKTh.m4a&id=321142502&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/purest-blue/id887343468?i=887343477&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142502_art_s_jRxmcpjX.jpg",
+            "ArtworkURL":"321142502.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4145,7 +4145,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142503_MkKMbQFh.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142503_sidx_bCymVnrg.m4a&id=321142503&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/blue-snow/id953387863?i=953387886&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142503_art_s_AiZBrQtL.jpg",
+            "ArtworkURL":"321142503.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4160,7 +4160,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142504_mdTqvHQK.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142504_sidx_kBmsKWYu.m4a&id=321142504&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/blue-destiny/id1036196484?i=1036197378&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142504_art_s_MZjupSKr.jpg",
+            "ArtworkURL":"321142504.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4175,7 +4175,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141801_coMHeTRo.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141801_sidx_bVgeBM.m4a&id=321141801&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/no-pain-no-game/id601248175?i=601248473&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141801_art_s_iJnFYd.jpg",
+            "ArtworkURL":"321141801.png",
             "HDArtworkURL":""
         },
         {
@@ -4190,7 +4190,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141802WEJTsr.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141802_sidx_YoQMBL.m4a&id=321141802&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/savior-song-feat.my-first/id723295062?i=723295238&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141802_art_s_mSdxty.jpg",
+            "ArtworkURL":"321141802.png",
             "HDArtworkURL":""
         },
         {
@@ -4205,7 +4205,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141803DwLozK.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141803_sidx_bpKEFL.m4a&id=321141803&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/born-to-be/id814306296?i=814306333&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141803_art_s_EQoiww.jpg",
+            "ArtworkURL":"321141803.png",
             "HDArtworkURL":""
         },
         {
@@ -4220,7 +4220,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141804AsFQTs.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141804_sidx_VxtpRd.m4a&id=321141804&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/new-world/id814307715?i=814307739&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141804_art_s_LKdfND.jpg",
+            "ArtworkURL":"321141804.png",
             "HDArtworkURL":""
         },
         {
@@ -4415,7 +4415,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142401_PCexxwRU.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142401_sidx_eZjbXNyH.m4a&id=321142401&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/usotsuki/id977081142?i=977081145&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142401_art_s_aQKcVUEA.jpg",
+            "ArtworkURL":"321142401.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4430,7 +4430,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142402_JrXLPaoR.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142402_sidx_cNJnXWgu.m4a&id=321142402&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/raijingusan/id1014344609?i=1014344839&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142402_art_s_aQKcVUEA.jpg",
+            "ArtworkURL":"321142402.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4445,7 +4445,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142403_PFTKqXXw.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142403_sidx_KubCDSCs.m4a&id=321142403&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/fakkinhotto-otonatoomocha/id1014344609?i=1014344834&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142403_art_s_aQKcVUEA.jpg",
+            "ArtworkURL":"321142403.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4460,7 +4460,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142404_yTpHQcVN.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142404_sidx_iMBDxDaJ.m4a&id=321142404&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/mission-5/id1014344609?i=1014344832&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142404_art_s_aQKcVUEA.jpg",
+            "ArtworkURL":"321142404.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4715,7 +4715,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070401_bhBkBsNV.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070401_sidx_ccogGpRt.m4a&id=321070401&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/insight/id1021849995?i=1021850001&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070401_art_s_YmdvMEcD.jpg",
+            "ArtworkURL":"321070401.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4730,7 +4730,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070402_AaAWaZap.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070402_sidx_SvcTtffm.m4a&id=321070402&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/crowds/id766290202?i=766290218&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070402_art_s_oQucrYxG.jpg",
+            "ArtworkURL":"321070402.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4745,7 +4745,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070403_SGdxVbRz.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070403_sidx_vBhTQhBi.m4a&id=321070403&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/orpheus/id964397098?i=964397099&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070403_art_s_TJhBuBiX.jpg",
+            "ArtworkURL":"321070403.png",
             "HDArtworkURL":"null"
         },
         {
@@ -4760,7 +4760,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070404_fSiNRkgK.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070404_sidx_xbqwJigz.m4a&id=321070404&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/the-phantom-pain/id1021849995?i=1021850002&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070404_art_s_YmdvMEcD.jpg",
+            "ArtworkURL":"321070404.png",
             "HDArtworkURL":"null"
         },
         {
@@ -5135,7 +5135,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142305_iMMNerga.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142305_sidx_xCiYNguM.m4a&id=321142305&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/purachina-single/id543496271&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142305_art_s_hpbvtbhb.jpg",
+            "ArtworkURL":"321142305.png",
             "HDArtworkURL":""
         },
         {
@@ -5150,7 +5150,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142306_CFsFFnxw.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142306_sidx_sPRkuBiJ.m4a&id=321142306&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/mameshiba-single/id543496719&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142306_art_s_XbGBQeyV.jpg",
+            "ArtworkURL":"321142306.png",
             "HDArtworkURL":""
         },
         {
@@ -5165,7 +5165,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142307_qmEdDSQR.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142307_sidx_xhhUMkPG.m4a&id=321142307&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/hemisphere-single/id543509239&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142307_art_s_QdLizmSe.jpg",
+            "ArtworkURL":"321142307.png",
             "HDArtworkURL":""
         },
         {
@@ -5180,7 +5180,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142308_SyJPtUhQ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142308_sidx_frzEorGG.m4a&id=321142308&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/mbs-tbs-xitvanimeshon-makurosuf/id279866297&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142308_art_s_bvyruYUa.jpg",
+            "ArtworkURL":"321142308.png",
             "HDArtworkURL":""
         },
         {
@@ -5195,7 +5195,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142301_fqAkrkmP.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142301_sidx_JGAPiKYM.m4a&id=321142301&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/saved.-be-mine!-single/id803941722?at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142301_art_s_KihgeKng.jpg",
+            "ArtworkURL":"321142301.png",
             "HDArtworkURL":""
         },
         {
@@ -5210,7 +5210,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142302_tBryCswh.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142302_sidx_TkjkfyHF.m4a&id=321142302&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/kobato-opening-theme-magic/id339978981?at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142302_art_s_VeKTEWjD.jpg",
+            "ArtworkURL":"321142302.png",
             "HDArtworkURL":""
         },
         {
@@ -5225,7 +5225,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142303_CXuiYriP.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142303_sidx_ebxAbjAk.m4a&id=321142303&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/repurika-single/id905869231?at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142303_art_s_VdtYYqkg.jpg",
+            "ArtworkURL":"321142303.png",
             "HDArtworkURL":""
         },
         {
@@ -5240,7 +5240,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142304_xwWKmTpc.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142304_sidx_EMBpyTBZ.m4a&id=321142304&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/kazeyomi-tong-chang-pan/id301792977?at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142304_art_s_ofkissSa.jpg",
+            "ArtworkURL":"321142304.png",
             "HDArtworkURL":""
         },
         {
@@ -5375,7 +5375,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142201_DmCoMCEo.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142201_sidx_VGMYRdtn.m4a&id=321142201&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/jumping!!-your-voice-single/id670190130?at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142201_art_s_LyRuCkGb.jpg",
+            "ArtworkURL":"321142201.png",
             "HDArtworkURL":""
         },
         {
@@ -5390,7 +5390,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142202_GkxTGEks.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142202_sidx_CCnjYmtp.m4a&id=321142202&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/jumping!!-your-voice-single/id670190130?at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142202_art_s_LyRuCkGb.jpg",
+            "ArtworkURL":"321142202.png",
             "HDArtworkURL":""
         },
         {
@@ -5405,7 +5405,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142203_MzNeYfJu.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142203_sidx_xawmaNML.m4a&id=321142203&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/kiniromozaiku-saundobukku/id685932295?at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142203_art_s_irNSmewz.jpg",
+            "ArtworkURL":"321142203.png",
             "HDArtworkURL":""
         },
         {
@@ -5420,7 +5420,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142204_CHGWPDTk.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142204_sidx_cemWnSaC.m4a&id=321142204&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/sakurairocherisshu/id958478562?i=958478602&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142204_art_s_LXfKjXeD.jpg",
+            "ArtworkURL":"321142204.png",
             "HDArtworkURL":""
         },
         {
@@ -5858,7 +5858,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142101_CrieLjKe.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142101_sidx_kCQmgKcU.m4a&id=321142101&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/parallel-hearts/id311757459?i=311757467&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142101_art_s_JDmcNzXa.jpg",
+            "ArtworkURL":"321142101.png",
             "HDArtworkURL":""
         },
         {
@@ -5873,7 +5873,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142102_NmUSWkRC.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142102_sidx_LwTAXmBJ.m4a&id=321142102&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/shino-xiangkou-huanno-kong/id349277286?i=349277298&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142102_art_s_tfceizVo.jpg",
+            "ArtworkURL":"321142102.png",
             "HDArtworkURL":""
         },
         {
@@ -5888,7 +5888,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142103_KzbLLaoz.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142103_sidx_HGxWHQiy.m4a&id=321142103&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/storytelling/id803935525?i=803935596&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142103_art_s_XMWFUeeE.jpg",
+            "ArtworkURL":"321142103.png",
             "HDArtworkURL":""
         },
         {
@@ -5903,7 +5903,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142104_rrynhPCe.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142104_sidx_HLcTBjdu.m4a&id=321142104&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/xing-xie/id916667803?i=916667805&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142104_art_s_qMcysxfk.jpg",
+            "ArtworkURL":"321142104.png",
             "HDArtworkURL":""
         },
         {
@@ -6518,7 +6518,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140309_rZEGBoMU.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140309_sidx_MhRbenrR.m4a&id=321140309&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/chun-qing/id898123165?i=898123168&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140309_art_s_aknwZegd.jpg",
+            "ArtworkURL":"321140309.png",
             "HDArtworkURL":""
         },
         {
@@ -6533,7 +6533,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140310_KufnWVgd.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140310_sidx_kcGAhRhk.m4a&id=321140310&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/tai-yangno-nu-shen/id727597838?i=727597899&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140310_art_s_YyPAvEts.jpg",
+            "ArtworkURL":"321140310.png",
             "HDArtworkURL":""
         },
         {
@@ -6548,7 +6548,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140311_EBqFBDRa.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140311_sidx_vByZQEma.m4a&id=321140311&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/message/id641488035?i=641488040&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140311_art_s_RucDcjoh.jpg",
+            "ArtworkURL":"321140311.png",
             "HDArtworkURL":""
         },
         {
@@ -6563,7 +6563,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140312_ytLryDQM.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140312_sidx_eCYRaLZj.m4a&id=321140312&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/chokoreto/id797340501?i=797340502&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140312_art_s_gakSSjnr.jpg",
+            "ArtworkURL":"321140312.png",
             "HDArtworkURL":""
         },
         {
@@ -6878,7 +6878,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140805_ahqybdrT.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140805_sidx_ykWNTiqt.m4a&id=321140805&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/run-real-run/id638083615?i=638083616&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140805_art_s_DRfBLxaX.jpg",
+            "ArtworkURL":"321140805.png",
             "HDArtworkURL":""
         },
         {
@@ -6893,7 +6893,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140806_ciPVkeqQ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140806_sidx_hEwrSXEv.m4a&id=321140806&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/vivid/id673106233?i=673106234&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140806_art_s_byvZRLtv.jpg",
+            "ArtworkURL":"321140806.png",
             "HDArtworkURL":""
         },
         {
@@ -6908,7 +6908,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140807_wmeonwLV.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140807_sidx_MijqCmRC.m4a&id=321140807&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/jin-rini-lian-se/id797334890?i=797334896&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140807_art_s_cFEuigDb.jpg",
+            "ArtworkURL":"321140807.png",
             "HDArtworkURL":""
         },
         {
@@ -6923,7 +6923,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140808_SjmfrJmL.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140808_sidx_joEdgMKs.m4a&id=321140808&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/re-remember/id883901941?i=883901943&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140808_art_s_KRBVcuBj.jpg",
+            "ArtworkURL":"321140808.png",
             "HDArtworkURL":""
         },
         {
@@ -6938,7 +6938,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142001_EfPJdShG.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142001_sidx_WoqvVqcx.m4a&id=321142001&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/kupido-urebyu/id860430147?i=860430159&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142001_art_s_paWNtKTd.jpg",
+            "ArtworkURL":"321142001.png",
             "HDArtworkURL":""
         },
         {
@@ -6953,7 +6953,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142002_ZCPYeyaU.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142002_sidx_VkgtKDXg.m4a&id=321142002&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/bi-nugafuraguwo-literu-li-you/id860422693?i=860422694&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142002_art_s_TySBbigq.jpg",
+            "ArtworkURL":"321142002.png",
             "HDArtworkURL":""
         },
         {
@@ -6968,7 +6968,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142003_QDfdngou.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142003_sidx_DYzygKie.m4a&id=321142003&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/1st-love-hatsu-lian-xuan-yan/id860430147?i=860430163&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142003_art_s_BcFTfaKa.jpg",
+            "ArtworkURL":"321142003.png",
             "HDArtworkURL":""
         },
         {
@@ -6983,7 +6983,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321142004_gBYUySXU.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321142004_sidx_oUyvjzmR.m4a&id=321142004&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/chun-fengfuragumentsu/id860422693?i=860422695&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321142004_art_s_dStjkEMs.jpg",
+            "ArtworkURL":"321142004.png",
             "HDArtworkURL":""
         },
         {
@@ -7658,7 +7658,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141901tKrCiL.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141901_sidx_uMpptS.m4a&id=321141901&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/shan-guangsutoringusu/id775488712?i=775488749&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141901_art_s_UnsRBh.jpg",
+            "ArtworkURL":"321141901.png",
             "HDArtworkURL":""
         },
         {
@@ -7673,7 +7673,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141902smfEFv.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141902_sidx_iigQLq.m4a&id=321141902&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/return-to-myself-shinai-shinai/id673108788?i=673108830&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141902_art_s_hcXywv.jpg",
+            "ArtworkURL":"321141902.png",
             "HDArtworkURL":""
         },
         {
@@ -7688,7 +7688,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141903eeHPXF.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141903_sidx_zBcZvb.m4a&id=321141903&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/shen-aiegoizumu/id606627267?i=606627902&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141903_art_s_htxNKB.jpg",
+            "ArtworkURL":"321141903.png",
             "HDArtworkURL":""
         },
         {
@@ -7703,7 +7703,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141904YcDVUv.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141904_sidx_paivZf.m4a&id=321141904&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/ride-on-time/id808167802?i=808169917&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141904_art_s_PTPFsy.jpg",
+            "ArtworkURL":"321141904.png",
             "HDArtworkURL":""
         },
         {
@@ -7958,7 +7958,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141701hyfWfr.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141701_sidx_xTPqKX.m4a&id=321141701&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/shabon/id388114515?i=388114610&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141701_art_s_WZVwFD.jpg",
+            "ArtworkURL":"321141701.png",
             "HDArtworkURL":""
         },
         {
@@ -7973,7 +7973,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141702vWJyQq.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141702_sidx_radBic.m4a&id=321141702&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/au-eiku/id587322886?i=587323053&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141702_art_s_fvLKSZ.jpg",
+            "ArtworkURL":"321141702.png",
             "HDArtworkURL":""
         },
         {
@@ -7988,7 +7988,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141703WtVAbZ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141703_sidx_ZcYpqU.m4a&id=321141703&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/qingi-yun/id604776853?i=604776865&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141703_art_s_SPLBAj.jpg",
+            "ArtworkURL":"321141703.png",
             "HDArtworkURL":""
         },
         {
@@ -8003,7 +8003,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141704KJCwRR.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141704_sidx_UrghmE.m4a&id=321141704&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/sanraito/id641490471?i=641490521&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141704_art_s_heJBao.jpg",
+            "ArtworkURL":"321141704.png",
             "HDArtworkURL":""
         },
         {
@@ -8501,7 +8501,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321300001HvvbDa.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321300001_sidx_rqydRV.m4a&id=321300001&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/trace-of-wind/id291837612?i=291837719&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321300001_art_s_HDYgxg.jpg",
+            "ArtworkURL":"321300001.png",
             "HDArtworkURL":""
         },
         {
@@ -8516,7 +8516,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321300002PFSHUG.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321300002_sidx_hxZVLw.m4a&id=321300002&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/i-am-light-feat.-jeni-fujita/id291837612?i=291837613&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321300002_art_s_MXYTAn.jpg",
+            "ArtworkURL":"321300002.png",
             "HDArtworkURL":""
         },
         {
@@ -8531,7 +8531,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321300003YcJtAw.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321300003_sidx_JYcUzE.m4a&id=321300003&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/base-control-the-day/id299308667?i=299308669&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321300003_art_s_nVqZhh.jpg",
+            "ArtworkURL":"321300003.png",
             "HDArtworkURL":""
         },
         {
@@ -8546,7 +8546,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311300004YaUMzf.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311300004_sidx_vZKsGK.m4a&id=311300004&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/do-it/id603779754?i=603779800&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311300004_art_s_cTVFca.jpg",
+            "ArtworkURL":"311300004.png",
             "HDArtworkURL":""
         },
         {
@@ -8741,7 +8741,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341141601eJczqP.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341141601_sidx_pecLQE.m4a&id=341141601&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/wan-quan-fan-zuirabureta/id612723542?i=612723719&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341141601_art_s_PJJWCU.jpg",
+            "ArtworkURL":"341141601.png",
             "HDArtworkURL":""
         },
         {
@@ -8756,7 +8756,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341141602CBhfwM.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341141602_sidx_jzbwcT.m4a&id=341141602&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/gu-duno-yinrenbo/id612723542?i=612723710&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341141602_art_s_hwsbCT.jpg",
+            "ArtworkURL":"341141602.png",
             "HDArtworkURL":""
         },
         {
@@ -8771,7 +8771,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341141603ckxCpj.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341141603_sidx_cNZZnC.m4a&id=341141603&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/nisemono-zhu-yi-bao/id612723542?i=612723723&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341141603_art_s_MWawMb.jpg",
+            "ArtworkURL":"341141603.png",
             "HDArtworkURL":""
         },
         {
@@ -8786,7 +8786,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341141604oRFKxG.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341141604_sidx_kNrqdM.m4a&id=341141604&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/yuanmane-yi-zi-daorigemu/id612723542?i=612723725&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341141604_art_s_JThCqX.jpg",
+            "ArtworkURL":"341141604.png",
             "HDArtworkURL":""
         },
         {
@@ -9761,7 +9761,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141501xztxzC.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141501_sidx_ZbfgUn.m4a&id=321141501&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/kopperiano-jiu-noir-ver./id579546526?i=579546632&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141501_art_s_EvCLQA.jpg",
+            "ArtworkURL":"321141501.png",
             "HDArtworkURL":""
         },
         {
@@ -9776,7 +9776,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141502hisQPq.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141502_sidx_QiPqPz.m4a&id=321141502&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/yue-shiguranginyoru/id208195932?i=208195944&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141502_art_s_otWMWU.jpg",
+            "ArtworkURL":"321141502.png",
             "HDArtworkURL":""
         },
         {
@@ -9791,7 +9791,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141503RyhbrG.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141503_sidx_BoRghk.m4a&id=321141503&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/wang-guo-jue-xingkatarushisu/id579546928?i=579547012&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141503_art_s_JKvhNr.jpg",
+            "ArtworkURL":"321141503.png",
             "HDArtworkURL":""
         },
         {
@@ -9806,7 +9806,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141504tEUVoJ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141504_sidx_HqvjRR.m4a&id=321141504&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/gui-dino-jian/id579546911?i=579546916&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141504_art_s_BwebLV.jpg",
+            "ArtworkURL":"321141504.png",
             "HDArtworkURL":""
         },
         {
@@ -10121,7 +10121,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141301ztGWir.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141301_sidx_dLDVZT.m4a&id=321141301&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id495087762?i=495087763&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141301_art_s_qcrMCp.jpg",
+            "ArtworkURL":"321141301.png",
             "HDArtworkURL":""
         },
         {
@@ -10136,7 +10136,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141302rGcRNo.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141302_sidx_VanuqZ.m4a&id=321141302&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id495087762?i=495087766&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141302_art_s_EasHbd.jpg",
+            "ArtworkURL":"321141302.png",
             "HDArtworkURL":""
         },
         {
@@ -10151,7 +10151,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141303DixAYi.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141303_sidx_LsDwcd.m4a&id=321141303&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id544126368?i=544126806&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141303_art_s_MJQgdA.jpg",
+            "ArtworkURL":"321141303.png",
             "HDArtworkURL":""
         },
         {
@@ -10166,7 +10166,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141304LtuPzy.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141304_sidx_sCxNwu.m4a&id=321141304&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id591716423?i=591716552&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141304_art_s_Mhispn.jpg",
+            "ArtworkURL":"321141304.png",
             "HDArtworkURL":""
         },
         {
@@ -10301,7 +10301,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141201nhVLmq.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141201_sidx_UGSXCB.m4a&id=321141201&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id208382232?i=208382235&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141201wpmtYP.jpg",
+            "ArtworkURL":"321141201.png",
             "HDArtworkURL":""
         },
         {
@@ -10316,7 +10316,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141202uMMqwN.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141202_sidx_jXpaiP.m4a&id=321141202&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id208176449?i=208176452&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141202DTXrzs.jpg",
+            "ArtworkURL":"321141202.png",
             "HDArtworkURL":""
         },
         {
@@ -10331,7 +10331,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141203vFieur.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141203_sidx_yKkGxD.m4a&id=321141203&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id526646909?i=526646920&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141203tLkVjB.jpg",
+            "ArtworkURL":"321141203.png",
             "HDArtworkURL":""
         },
         {
@@ -10346,7 +10346,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141204wqrNba.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141204_sidx_rRDEDB.m4a&id=321141204&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id526646909?i=526646914&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141204ZfevyN.jpg",
+            "ArtworkURL":"321141204.png",
             "HDArtworkURL":""
         },
         {
@@ -10541,7 +10541,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140801guEyVP.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140801_sidx_fhPXDo.m4a&id=321140801&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id444199814?i=444199858&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140801jzNyLs.jpg",
+            "ArtworkURL":"321140801.png",
             "HDArtworkURL":""
         },
         {
@@ -10556,7 +10556,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140802drzFks.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140802_sidx_comRve.m4a&id=321140802&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id419561269?i=419561302&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140802AtXGrj.jpg",
+            "ArtworkURL":"321140802.png",
             "HDArtworkURL":""
         },
         {
@@ -10571,7 +10571,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140803yREbKq.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140803_sidx_rDAaQu.m4a&id=321140803&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id508370328?i=508370484&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140803tbcHqi.jpg",
+            "ArtworkURL":"321140803.png",
             "HDArtworkURL":""
         },
         {
@@ -10586,7 +10586,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140804eMfsKo.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140804_sidx_TnAgDA.m4a&id=321140804&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id523070379?i=523070642&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140804JPeSbd.jpg",
+            "ArtworkURL":"321140804.png",
             "HDArtworkURL":""
         },
         {
@@ -10601,7 +10601,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141101jtubXg.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141101_sidx_GhNHHQ.m4a&id=321141101&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id208201011?i=208201045&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141101SADBvF.jpg",
+            "ArtworkURL":"321141101.png",
             "HDArtworkURL":""
         },
         {
@@ -10616,7 +10616,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141102KtscFs.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141102_sidx_RMJNAG.m4a&id=321141102&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id208201011?i=208202331&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141102FtJeZC.jpg",
+            "ArtworkURL":"321141102.png",
             "HDArtworkURL":""
         },
         {
@@ -10631,7 +10631,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141103ZeqkNq.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141103_sidx_paFMQX.m4a&id=321141103&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id178318203?i=178318889&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141103NHZhnS.jpg",
+            "ArtworkURL":"321141103.png",
             "HDArtworkURL":""
         },
         {
@@ -10646,7 +10646,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141104nonmKD.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141104_sidx_eQPsuK.m4a&id=321141104&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id178318203?i=178319607&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141104nMqCGP.jpg",
+            "ArtworkURL":"321141104.png",
             "HDArtworkURL":""
         },
         {
@@ -10721,7 +10721,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141001sTtJyJ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141001_sidx_ZQMWtH.m4a&id=321141001&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id471187578?i=471187584&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141001nwQuKo.jpg",
+            "ArtworkURL":"321141001.png",
             "HDArtworkURL":""
         },
         {
@@ -10736,7 +10736,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/311141002msaMKd.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311141002_sidx_vdViqS.m4a&id=311141002&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id471187578?i=471187686&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/311141002PrxNRG.jpg",
+            "ArtworkURL":"311141002.png",
             "HDArtworkURL":""
         },
         {
@@ -10751,7 +10751,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141003BRJGYL.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141003_sidx_TvotMW.m4a&id=321141003&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id471187578?i=471187752&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141003dPmSBJ.jpg",
+            "ArtworkURL":"321141003.png",
             "HDArtworkURL":""
         },
         {
@@ -10766,7 +10766,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321141004AZGtRT.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321141004_sidx_dyhmKa.m4a&id=321141004&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id471187578?i=471188009&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321141004QtjRYN.jpg",
+            "ArtworkURL":"321141004.png",
             "HDArtworkURL":""
         },
         {
@@ -11501,7 +11501,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070105koYLbm.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070105_sidx_nPwYiN.m4a&id=321070105&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id612750409?i=612750469&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070105KxLZSy.jpg",
+            "ArtworkURL":"321070105.png",
             "HDArtworkURL":""
         },
         {
@@ -11516,7 +11516,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070106jywppf.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070106_sidx_KeWCeU.m4a&id=321070106&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id612750409?i=612750472&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070106dHtcrm.jpg",
+            "ArtworkURL":"321070106.png",
             "HDArtworkURL":""
         },
         {
@@ -11531,7 +11531,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070107cRADYi.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070107_sidx_bZVXBA.m4a&id=321070107&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id612750409?i=612750473&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070107DQaMHw.jpg",
+            "ArtworkURL":"321070107.png",
             "HDArtworkURL":""
         },
         {
@@ -11546,7 +11546,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070108HgLrBD.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070108_sidx_iFseNz.m4a&id=321070108&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id612750409?i=612750479&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070108WZTcYT.jpg",
+            "ArtworkURL":"321070108.png",
             "HDArtworkURL":""
         },
         {
@@ -11561,7 +11561,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070101TJiXrr.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070101idx.m4a&id=321070101&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id408833299?i=408833317&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070101.jpg",
+            "ArtworkURL":"321070101.png",
             "HDArtworkURL":""
         },
         {
@@ -11576,7 +11576,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070102mATkWs.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070102idx.m4a&id=321070102&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id441900074?i=441900084&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070102.jpg",
+            "ArtworkURL":"321070102.png",
             "HDArtworkURL":""
         },
         {
@@ -11591,7 +11591,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070103YCbMlG.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070103idx.m4a&id=321070103&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id441900074?i=441900088&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070103.jpg",
+            "ArtworkURL":"321070103.png",
             "HDArtworkURL":""
         },
         {
@@ -11606,7 +11606,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321070104TqYsmN.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321070104idx.m4a&id=321070104&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id441900655?i=441900669&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321070104.jpg",
+            "ArtworkURL":"321070104.png",
             "HDArtworkURL":""
         },
         {
@@ -12041,7 +12041,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140601PjeGUA.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140601_sidx_gxfUTf.m4a&id=321140601&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id447006861?i=447006868&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140601SAbDnD.jpg",
+            "ArtworkURL":"321140601.png",
             "HDArtworkURL":""
         },
         {
@@ -12056,7 +12056,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140602ButceB.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140602_sidx_jZYzYi.m4a&id=321140602&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id447006861?i=447006873&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140602KYpWPV.jpg",
+            "ArtworkURL":"321140602.png",
             "HDArtworkURL":""
         },
         {
@@ -12071,7 +12071,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140603rAdoAC.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140603_sidx_RYWzeK.m4a&id=321140603&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id543510161?i=543510453&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140603hdpvef.jpg",
+            "ArtworkURL":"321140603.png",
             "HDArtworkURL":""
         },
         {
@@ -12086,7 +12086,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140604LsASqN.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140604_sidx_fWNCbz.m4a&id=321140604&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id543510161?i=543510458&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140604bNGfcf.jpg",
+            "ArtworkURL":"321140604.png",
             "HDArtworkURL":""
         },
         {
@@ -12521,7 +12521,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140305DTJeHa.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140305_sidx_mAmdFW.m4a&id=321140305&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id568004657?i=568004819&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140305BJhxFN.jpg",
+            "ArtworkURL":"321140305.png",
             "HDArtworkURL":""
         },
         {
@@ -12536,7 +12536,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140306MCznHN.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140306_sidx_YdRRbU.m4a&id=321140306&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id568004657?i=568004828&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140306MPAriJ.jpg",
+            "ArtworkURL":"321140306.png",
             "HDArtworkURL":""
         },
         {
@@ -12551,7 +12551,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140307wbTcnH.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140307_sidx_YWoJzV.m4a&id=321140307&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id568004657?i=568004822&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140307zSKqfW.jpg",
+            "ArtworkURL":"321140307.png",
             "HDArtworkURL":""
         },
         {
@@ -12566,7 +12566,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140308NqfdBb.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140308_sidx_eDWwMz.m4a&id=321140308&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id568004657?i=568004821&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140308bAkQJf.jpg",
+            "ArtworkURL":"321140308.png",
             "HDArtworkURL":""
         },
         {
@@ -12581,7 +12581,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140301HocVmG.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140301_sidx_jfFAHN.m4a&id=321140301&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id523070373?i=523070586&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140301szDhig.jpg",
+            "ArtworkURL":"321140301.png",
             "HDArtworkURL":""
         },
         {
@@ -12596,7 +12596,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140302VGQrVf.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140302_sidx_MwZBzo.m4a&id=321140302&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id523070373?i=523070631&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140302pqMAaT.jpg",
+            "ArtworkURL":"321140302.png",
             "HDArtworkURL":""
         },
         {
@@ -12611,7 +12611,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140303YjFfKn.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140303_sidx_KjxUsm.m4a&id=321140303&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id523070373?i=523070639&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140303FAMDPb.jpg",
+            "ArtworkURL":"321140303.png",
             "HDArtworkURL":""
         },
         {
@@ -12626,7 +12626,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140304ynuRLR.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140304_sidx_gexunw.m4a&id=321140304&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id498173382?i=498173384&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140304EXgEiK.jpg",
+            "ArtworkURL":"321140304.png",
             "HDArtworkURL":""
         },
         {
@@ -13181,7 +13181,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321041801zUpAFL.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321041801_sidx_SHEazv.m4a&id=321041801&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id282345657?i=282345974&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321041801wmoNpM.jpg",
+            "ArtworkURL":"321041801.png",
             "HDArtworkURL":""
         },
         {
@@ -13196,7 +13196,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321041802jeGpAd.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321041802_sidx_gEtsHG.m4a&id=321041802&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id282345657?i=282345688&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321041802roeikn.jpg",
+            "ArtworkURL":"321041802.png",
             "HDArtworkURL":""
         },
         {
@@ -13211,7 +13211,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321041803DWWvxz.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321041803_sidx_RwFfKF.m4a&id=321041803&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id360405957?i=360406065&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321041803NwitQY.jpg",
+            "ArtworkURL":"321041803.png",
             "HDArtworkURL":""
         },
         {
@@ -13226,7 +13226,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321041804LsDHYK.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321041804_sidx_Fhnvsi.m4a&id=321041804&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id360405957?i=360406058&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321041804cJSQdy.jpg",
+            "ArtworkURL":"321041804.png",
             "HDArtworkURL":""
         },
         {
@@ -13361,7 +13361,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140401JXiYNf.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140401_sidx_CZXFiZ.m4a&id=321140401&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id550053427?i=550053529&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140401QRiXbA.jpg",
+            "ArtworkURL":"321140401.png",
             "HDArtworkURL":""
         },
         {
@@ -13376,7 +13376,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140402AgZEZe.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140402_sidx_ExsqPW.m4a&id=321140402&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id550053427?i=550053531&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140402pkHnxu.jpg",
+            "ArtworkURL":"321140402.png",
             "HDArtworkURL":""
         },
         {
@@ -13391,7 +13391,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140403zQDrAf.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140403_sidx_rzxbQj.m4a&id=321140403&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id550053427?i=550053532&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140403JHJSrE.jpg",
+            "ArtworkURL":"321140403.png",
             "HDArtworkURL":""
         },
         {
@@ -13406,7 +13406,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140404XcRusE.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140404_sidx_HciGup.m4a&id=321140404&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id550053427?i=550053533&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140404UMMXiy.jpg",
+            "ArtworkURL":"321140404.png",
             "HDArtworkURL":""
         },
         {
@@ -14141,7 +14141,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140101riJhZQ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140101idx.m4a&id=321140101&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id208101705?i=208101763&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140101.jpg",
+            "ArtworkURL":"321140101.png",
             "HDArtworkURL":""
         },
         {
@@ -14156,7 +14156,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140102ebeyhC.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140102idx.m4a&id=321140102&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/over-the-sky/id500646592?i=500646962&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140102.jpg",
+            "ArtworkURL":"321140102.png",
             "HDArtworkURL":""
         },
         {
@@ -14171,7 +14171,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140103zGzXcx.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140103idx.m4a&id=321140103&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id469316859?i=469316861&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140103.jpg",
+            "ArtworkURL":"321140103.png",
             "HDArtworkURL":""
         },
         {
@@ -14186,7 +14186,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140104hREUMw.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140104idx.m4a&id=321140104&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id469345656?i=469345660&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140104.jpg",
+            "ArtworkURL":"321140104.png",
             "HDArtworkURL":""
         },
         {
@@ -14201,7 +14201,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140001VGvyPc.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140001idx.m4a&id=321140001&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id256502490?i=256502499&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140001.jpg",
+            "ArtworkURL":"321140001.png",
             "HDArtworkURL":""
         },
         {
@@ -14216,7 +14216,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140002CfSwaF.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140002idx.m4a&id=321140002&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id256502490?i=256502502&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140002.jpg",
+            "ArtworkURL":"321140002.png",
             "HDArtworkURL":""
         },
         {
@@ -14231,7 +14231,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140003uYJUyp.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140003idx.m4a&id=321140003&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/id449825503?i=449825510&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140003.jpg",
+            "ArtworkURL":"321140003.png",
             "HDArtworkURL":""
         },
         {
@@ -14246,7 +14246,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/321140004tMsLhZ.jbt",
             "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F321140004idx.m4a&id=321140004&target=JP",
             "iTunesURL":"https://itunes.apple.com/jp/album/the-giving-tree/id517673361?i=517673365&at=11l3MC&ct=jubeat",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321140004.jpg",
+            "ArtworkURL":"321140004.png",
             "HDArtworkURL":""
         },
         {
@@ -15866,10 +15866,10 @@
                 7,
                 10
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/311340001.jbt",
+            "ItemURL":"311340001.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/311340001.png",
+            "ArtworkURL":"311340001.png",
             "HDArtworkURL":""
         },
         {
@@ -15881,10 +15881,10 @@
                 5,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/311340002.jbt",
+            "ItemURL":"311340002.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/311340002.png",
+            "ArtworkURL":"311340002.png",
             "HDArtworkURL":""
         },
         {
@@ -15896,10 +15896,10 @@
                 6,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/311340003.jbt",
+            "ItemURL":"311340003.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/311340003.png",
+            "ArtworkURL":"311340003.png",
             "HDArtworkURL":""
         },
         {
@@ -15911,10 +15911,10 @@
                 6,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/311340004.jbt",
+            "ItemURL":"311340004.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/311340004.png",
+            "ArtworkURL":"311340004.png",
             "HDArtworkURL":""
         },
         {
@@ -15944,7 +15944,7 @@
             "ItemURL": "https://agx-dl.konami.net/agx/data/100040013_XvhToyGt.jbt",
             "SampleURL": "https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F100040013_sidx_xeTpEdus.m4a&id=100040013&target=JP",
             "iTunesURL": "",
-            "ArtworkURL": "https://agx-dl.konami.net/agx/image/100040013_art_s_eWPpBrdR.jpg",
+            "ArtworkURL": "100040013.png",
             "HDArtworkURL": ""
         }
     ]

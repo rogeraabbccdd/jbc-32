@@ -5,7 +5,7 @@
     "ShortComment":"",
     "IsNew":false,
     "Copyright":"",
-    "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack6.png",
+    "ArtworkURL":"acPack6.png",
     "HDArtworkURL":"",
     "RegularPriceJPY":0,
     "ArtistURL":"",
@@ -59,7 +59,7 @@
             "ArtworkURL":"https://agx-dl.konami.net/agx/image/100000956_art_s_nWGYzmjZ.jpg",
             "HDArtworkURL":"",
             "extID":80001006,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/80001006.jbt",
+            "extURL":"80001006.jbt",
             "playable":7
         },
         {
@@ -170,7 +170,7 @@
             "ArtworkURL":"https://agx-dl.konami.net/agx/image/100001002_art_s_bXksUdDo.jpg",
             "HDArtworkURL":"",
             "extID":80001015,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/80001015.jbt",
+            "extURL":"80001015.jbt",
             "playable":7
         },
         {
@@ -200,7 +200,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000012.png",
+            "ArtworkURL":"60000012.png",
             "HDArtworkURL":""
         },
         {
@@ -215,10 +215,10 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000013.png",
+            "ArtworkURL":"60000013.png",
             "HDArtworkURL":"",
             "extID":60001019,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/60001019.jbt",
+            "extURL":"60001019.jbt",
             "playable":7
         },
         {
@@ -233,7 +233,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000014.png",
+            "ArtworkURL":"60000014.png",
             "HDArtworkURL":""
         },
         {
@@ -248,7 +248,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000015.png",
+            "ArtworkURL":"60000015.png",
             "HDArtworkURL":""
         },
         {
@@ -263,7 +263,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000016.png",
+            "ArtworkURL":"60000016.png",
             "HDArtworkURL":""
         },
         {
@@ -278,7 +278,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000017.png",
+            "ArtworkURL":"60000017.png",
             "HDArtworkURL":""
         },
         {
@@ -293,7 +293,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000018.png",
+            "ArtworkURL":"60000018.png",
             "HDArtworkURL":""
         },
         {
@@ -308,10 +308,10 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000019.png",
+            "ArtworkURL":"60000019.png",
             "HDArtworkURL":"",
             "extID":60001018,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/60001018.jbt",
+            "extURL":"60001018.jbt",
             "playable":7
         },
         {
@@ -326,7 +326,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000020.png",
+            "ArtworkURL":"60000020.png",
             "HDArtworkURL":""
         },
         {
@@ -356,7 +356,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000022.png",
+            "ArtworkURL":"60000022.png",
             "HDArtworkURL":""
         },
         {
@@ -371,7 +371,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000023.png",
+            "ArtworkURL":"60000023.png",
             "HDArtworkURL":""
         },
         {
@@ -386,7 +386,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000024.png",
+            "ArtworkURL":"60000024.png",
             "HDArtworkURL":""
         },
         {
@@ -401,7 +401,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000025.png",
+            "ArtworkURL":"60000025.png",
             "HDArtworkURL":""
         },
         {
@@ -416,10 +416,10 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000026.png",
+            "ArtworkURL":"60000026.png",
             "HDArtworkURL":"",
             "extID":80001010,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/80001010.jbt",
+            "extURL":"80001010.jbt",
             "playable":7
         },
         {
@@ -452,7 +452,7 @@
             "ArtworkURL":"https://agx-dl.konami.net/agx/image/100000988_art_s_CfdQumLi.jpg",
             "HDArtworkURL":"",
             "extID":90001010,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/90001010.jbt",
+            "extURL":"90001010.jbt",
             "playable":7
         },
         {
@@ -464,10 +464,10 @@
                 7,
                 10
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/311340001.jbt",
+            "ItemURL":"311340001.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/311340001.png",
+            "ArtworkURL":"311340001.png",
             "HDArtworkURL":""
         },
         {
@@ -479,10 +479,10 @@
                 5,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/311340002.jbt",
+            "ItemURL":"311340002.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/311340002.png",
+            "ArtworkURL":"311340002.png",
             "HDArtworkURL":""
         },
         {
@@ -494,10 +494,10 @@
                 6,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/311340003.jbt",
+            "ItemURL":"311340003.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/311340003.png",
+            "ArtworkURL":"311340003.png",
             "HDArtworkURL":""
         },
         {
@@ -509,10 +509,10 @@
                 6,
                 9
             ],
-            "ItemURL":"http://jba.hkso.ws/agx/main/cgi/jbt/311340004.jbt",
+            "ItemURL":"311340004.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/311340004.png",
+            "ArtworkURL":"311340004.png",
             "HDArtworkURL":""
         },
         {
@@ -770,7 +770,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000054.png",
+            "ArtworkURL":"60000054.png",
             "HDArtworkURL":""
         },
         {
@@ -785,7 +785,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000055.png",
+            "ArtworkURL":"60000055.png",
             "HDArtworkURL":""
         },
         {
@@ -1145,7 +1145,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000079.png",
+            "ArtworkURL":"60000079.png",
             "HDArtworkURL":""
         },
         {
@@ -1160,7 +1160,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000080.png",
+            "ArtworkURL":"60000080.png",
             "HDArtworkURL":""
         },
         {
@@ -1220,7 +1220,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000084.png",
+            "ArtworkURL":"60000084.png",
             "HDArtworkURL":""
         },
         {
@@ -1235,7 +1235,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000085.png",
+            "ArtworkURL":"60000085.png",
             "HDArtworkURL":""
         },
         {
@@ -1250,7 +1250,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000086.png",
+            "ArtworkURL":"60000086.png",
             "HDArtworkURL":""
         },
         {
@@ -1280,7 +1280,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000088.png",
+            "ArtworkURL":"60000088.png",
             "HDArtworkURL":""
         },
         {
@@ -1295,7 +1295,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000089.png",
+            "ArtworkURL":"60000089.png",
             "HDArtworkURL":""
         },
         {
@@ -1325,7 +1325,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000091.png",
+            "ArtworkURL":"60000091.png",
             "HDArtworkURL":""
         },
         {
@@ -1355,7 +1355,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000093.png",
+            "ArtworkURL":"60000093.png",
             "HDArtworkURL":""
         },
         {
@@ -1385,7 +1385,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000095.png",
+            "ArtworkURL":"60000095.png",
             "HDArtworkURL":""
         },
         {
@@ -1400,7 +1400,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000096.png",
+            "ArtworkURL":"60000096.png",
             "HDArtworkURL":""
         },
         {
@@ -1415,7 +1415,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000097.png",
+            "ArtworkURL":"60000097.png",
             "HDArtworkURL":""
         },
         {
@@ -1445,7 +1445,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000099.png",
+            "ArtworkURL":"60000099.png",
             "HDArtworkURL":""
         },
         {
@@ -1475,7 +1475,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000101.png",
+            "ArtworkURL":"60000101.png",
             "HDArtworkURL":""
         },
         {
@@ -1490,7 +1490,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000102.png",
+            "ArtworkURL":"60000102.png",
             "HDArtworkURL":""
         },
         {
@@ -1505,7 +1505,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000103.png",
+            "ArtworkURL":"60000103.png",
             "HDArtworkURL":""
         },
         {
@@ -1520,7 +1520,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000104.png",
+            "ArtworkURL":"60000104.png",
             "HDArtworkURL":""
         },
         {
@@ -1595,7 +1595,7 @@
             "ItemURL":"https://agx-dl.konami.net/agx/data/341360101_LAQJxRoW.jbt",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/341360101_art_s_tPneaHik.jpg",
+            "ArtworkURL":"341360101.png",
             "HDArtworkURL":""
         },
         {
@@ -1640,7 +1640,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000115.png",
+            "ArtworkURL":"60000115.png",
             "HDArtworkURL":""
         },
         {
@@ -1655,7 +1655,7 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/60000116.png",
+            "ArtworkURL":"60000116.png",
             "HDArtworkURL":""
         },
         {
@@ -1940,10 +1940,10 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/50000360.png",
+            "ArtworkURL":"50000360.png",
             "HDArtworkURL":"",
             "extID":60001011,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/60001011.jbt",
+            "extURL":"60001011.jbt",
             "playable":7
         },
         {
@@ -1958,10 +1958,10 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/50000001.png",
+            "ArtworkURL":"50000001.png",
             "HDArtworkURL":"",
             "extID":60001012,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/60001012.jbt",
+            "extURL":"60001012.jbt",
             "playable":7
         },
         {
@@ -1994,10 +1994,10 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/50000222.png",
+            "ArtworkURL":"50000222.png",
             "HDArtworkURL":"",
             "extID":60001014,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/60001014.jbt",
+            "extURL":"60001014.jbt",
             "playable":7
         },
         {
@@ -2012,10 +2012,10 @@
             "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://icentral.konmai.co/ranking/image/jbjk/50000153.png",
+            "ArtworkURL":"50000153.png",
             "HDArtworkURL":"",
             "extID":60001015,
-            "extURL":"https://raw.githubusercontent.com/tungnotpunk/jbc-32/master/resource/60001015.jbt",
+            "extURL":"60001015.jbt",
             "playable":7
         },
         {

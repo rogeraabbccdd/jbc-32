@@ -24,40 +24,44 @@ for ($i = 0; $i < count($list); $i++) {
         }
     }
 }
+$result = '';
 if ($output !== '') {
     $output->ItemURL = fixDL($output->ID, $output->ItemURL);
-    echo json_encode($output, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
-    exit();
-}
-for ($i = 10410; $i < 10424; $i++) {
-    if (file_exists('config/packinfo'.$i.'.json')) {
-        $data = json_decode(file_get_contents('config/packinfo'.$i.'.json'));
-        for ($j = 0; $j < count($data->MusicList); $j++) {
-            if ($data->MusicList[$j]->ID === (int)$musicId) {
-                $output = $data->MusicList[$j];
-                break;
-            }
-			if ($data->MusicList[$j]->ID === (int)$musicId) {
-				$output = $data->MusicList[$j];
-				unset($output->extURL); 
-				unset($output->extID); 
-				unset($output->playable); 
-				break;
-			} else if (isset($data->MusicList[$j]->extID) && $data->MusicList[$j]->extID === (int)$musicId) {
-				$output = $data->MusicList[$j];
-				$output->ItemURL = $output->extURL;
-				$output->ID = $output->extID;
-				unset($output->extURL); 
-				unset($output->extID); 
-				unset($output->playable); 
-				break;
-			}
-        }
-    }
-}
-if ($output) {
-    $output->ItemURL = fixDL($output->ID, $output->ItemURL);
-    echo json_encode($output, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+    $result = json_encode($output, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
 } else {
-    echo '{}';
+	for ($i = 10410; $i < 10424; $i++) {
+		if (file_exists('config/packinfo'.$i.'.json')) {
+			$data = json_decode(file_get_contents('config/packinfo'.$i.'.json'));
+			for ($j = 0; $j < count($data->MusicList); $j++) {
+				if ($data->MusicList[$j]->ID === (int)$musicId) {
+					$output = $data->MusicList[$j];
+					break;
+				}
+				if ($data->MusicList[$j]->ID === (int)$musicId) {
+					$output = $data->MusicList[$j];
+					unset($output->extURL); 
+					unset($output->extID); 
+					unset($output->playable); 
+					break;
+				} else if (isset($data->MusicList[$j]->extID) && $data->MusicList[$j]->extID === (int)$musicId) {
+					$output = $data->MusicList[$j];
+					$output->ItemURL = $output->extURL;
+					$output->ID = $output->extID;
+					unset($output->extURL); 
+					unset($output->extID); 
+					unset($output->playable); 
+					break;
+				}
+			}
+		}
+	}
+	if ($output) {
+		$output->ItemURL = fixDL($output->ID, $output->ItemURL);
+		$result = json_encode($output, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);
+	} else {
+		$result = '{}';
+	}
 }
+$key = 'i3yuYjsZeKQq9zZ7dbm18Buwt6LioKJdfeGD7pMirHuTwfcC2vohdEnBNz9lkkld';
+$hash = hash('sha256', $key.$result);
+echo $hash.$result;

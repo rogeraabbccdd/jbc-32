@@ -204,7 +204,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/officialPack.png",
+            "ArtworkURL":"officialPack.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -216,7 +216,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/officialPack.png",
+            "ArtworkURL":"officialPack.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -228,7 +228,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/officialPack.png",
+            "ArtworkURL":"officialPack.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -240,7 +240,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/officialPack.png",
+            "ArtworkURL":"officialPack.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -252,19 +252,19 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/customPack.png",
+            "ArtworkURL":"customPack.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
         },
         {
             "ID":10419,
-            "Name":"JBHOT AC festo PACK 1 (Encrypted Content)",
+            "Name":"JBHOT AC festo PACK 1 (Encrypted)",
             "Comment":"",
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack9.png",
+            "ArtworkURL":"acPack9.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -276,7 +276,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack8.png",
+            "ArtworkURL":"acPack8.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -288,7 +288,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack7.png",
+            "ArtworkURL":"acPack7.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -300,7 +300,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack6.png",
+            "ArtworkURL":"acPack6.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -312,7 +312,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack5.5.png",
+            "ArtworkURL":"acPack5.5.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -324,7 +324,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack5.png",
+            "ArtworkURL":"acPack5.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -336,7 +336,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack4.png",
+            "ArtworkURL":"acPack4.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -348,7 +348,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack3.png",
+            "ArtworkURL":"acPack3.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -360,7 +360,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack2.png",
+            "ArtworkURL":"acPack2.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -372,7 +372,7 @@
             "ShortComment":"",
             "IsNew":false,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/acPack1.png",
+            "ArtworkURL":"acPack1.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -408,7 +408,7 @@
             "ShortComment":"ゆりゆららららゆるゆり大事件\nゆるゆりI♡U\nマイペースでいきましょう\nPrecious Friends",
             "IsNew":true,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/pack10402.png",
+            "ArtworkURL":"pack10402.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -420,7 +420,7 @@
             "ShortComment":"いぇす!ゆゆゆ☆ゆるゆり♪♪\nレッツラブ～でいきましょう♪\n100%ちゅ～学生\nMY SWEET MEMORY",
             "IsNew":true,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/pack10403.png",
+            "ArtworkURL":"pack10403.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
@@ -432,7 +432,7 @@
             "ShortComment":"Dreamers!\nDancin' To The Music\nNo Limitation\nアキバ de ハレルヤ",
             "IsNew":true,
             "Copyright":"",
-            "ArtworkURL":"https://icentral.konmai.co/jbh2/pack10404.png",
+            "ArtworkURL":"pack10404.png",
             "HDArtworkURL":"",
             "RegularPriceJPY":0,
             "extData":false
