@@ -282,7 +282,7 @@
             "HDArtworkURL":""
         },
         {
-            "ID":321130110,
+            "ID":20000020,
             "Name":"Fantasista",
             "Artist":"Dragon Ash",
             "Level":[
@@ -290,10 +290,10 @@
                 5,
                 7
             ],
-            "ItemURL":"https://agx-dl.konami.net/agx/data/321130110_dWpsdJan.jbt",
+            "ItemURL":"",
             "SampleURL":"",
             "iTunesURL":"",
-            "ArtworkURL":"https://agx-dl.konami.net/agx/image/321130110_art_s_mgeyxtXL.jpg",
+            "ArtworkURL":"20000020.png",
             "HDArtworkURL":""
         },
         {
