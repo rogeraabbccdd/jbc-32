@@ -1,5 +1,231 @@
 [
     {
+        "ID":10338,
+        "Name":"IOSYS TRAX pack",
+        "Comment":"平素より大変お世話になっております。IOSYSのクラブミュージック専門レーベル「IOSYS TRAX」です。この度配信させていただくパックは良質なパーティーミュージックを収録しております。是非ともプレイしていただけますよう、何卒よろしくお願いいたします。",
+        "ShortComment":"Dance & House\nSweet Candy\nダンスフロアの果実\nwe party again",
+        "IsNew":false,
+        "Copyright":"℗IOSYS TRAX",
+        "ArtworkURL":"https://agx-dl.konami.net/agx/image/10338_sd_dZyRbRcw.jpg",
+        "HDArtworkURL":"https://agx-dl.konami.net/agx/image/10338_hd_HXNQBhfk.jpg",
+        "RegularPriceJPY":0,
+        "ArtistURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/artist/?url=http%3A%2F%2Fiosystrax.com%2F&id=10338&target=JP",
+        "ArtistBannerURL":"IOSYS TRAX公式サイト",
+        "MusicList":[
+            {
+                "ID":311410005,
+                "Name":"Dance & House",
+                "Artist":"Tomoyuki Sakakida feat.Aikapin",
+                "Level":[
+                    4,
+                    6,
+                    9
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/311410005_KaouqvPV.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311410005_sidx_mCrKtKdf.m4a&id=311410005&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/311410005_art_s_HgnmtNYE.jpg",
+                "HDArtworkURL":""
+            },
+            {
+                "ID":311410006,
+                "Name":"Sweet Candy",
+                "Artist":"uno",
+                "Level":[
+                    2,
+                    7,
+                    9
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/311410006_EZNKeyWD.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311410006_sidx_kGjtywxQ.m4a&id=311410006&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/311410006_art_s_HgnmtNYE.jpg",
+                "HDArtworkURL":""
+            },
+            {
+                "ID":311410007,
+                "Name":"ダンスフロアの果実",
+                "Artist":"Yunomi feat.nicamoq",
+                "Level":[
+                    3,
+                    5,
+                    8
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/311410007_fQjVwWqa.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311410007_sidx_PCKhuAdQ.m4a&id=311410007&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/311410007_art_s_HgnmtNYE.jpg",
+                "HDArtworkURL":""
+            },
+            {
+                "ID":311410008,
+                "Name":"we party again",
+                "Artist":"D.watt feat.mako",
+                "Level":[
+                    3,
+                    5,
+                    8
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/311410008_ywhMhStP.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311410008_sidx_dsXaeeUS.m4a&id=311410008&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/311410008_art_s_HgnmtNYE.jpg",
+                "HDArtworkURL":""
+            }
+        ]
+    },
+    {
+        "ID":10320,
+        "Name":"ニコニコ・ミュージック pack 08",
+        "Comment":"ニコニコ動画で話題の楽曲をギュッと凝縮した、ニコニコできるパックです。\n新進気鋭のアーティストが成す、オリジナリティ溢れる楽曲の数々！その中でも、特に選りすぐりをjubeat plus向けにピックアップ！",
+        "ShortComment":"ブーレンシュー\nビィーーーム!!!\nパンプキンズナイトメア\nウミユリ海底譚",
+        "IsNew":false,
+        "Copyright":"℗キョータ ℗プロペリン ℗るなちゅ ℗n-buna",
+        "ArtworkURL":"https://agx-dl.konami.net/agx/image/10320_sd_HrtnJfiJ.jpg",
+        "HDArtworkURL":"https://agx-dl.konami.net/agx/image/10320_hd_iNAuLYAd.jpg",
+        "RegularPriceJPY":0,
+        "ArtistURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/artist/?url=http%3A%2F%2Fwww.nicovideo.jp%2F&id=10320&target=JP",
+        "ArtistBannerURL":"公式サイト",
+        "MusicList":[
+            {
+                "ID":341160029,
+                "Name":"ブーレンシュー",
+                "Artist":"キョータ",
+                "Level":[
+                    3,
+                    6,
+                    9
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/341160029_KbLLKbNk.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341160029_sidx_GkXjHXoC.m4a&id=341160029&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/341160029_art_s_yiiqnUGG.jpg",
+                "HDArtworkURL":""
+            },
+            {
+                "ID":341160030,
+                "Name":"ビィーーーム!!!",
+                "Artist":"プロペリン",
+                "Level":[
+                    2,
+                    5,
+                    8
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/341160030_tAaHeoYn.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341160030_sidx_BtVvdvLz.m4a&id=341160030&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/341160030_art_s_bEimdhRd.jpg",
+                "HDArtworkURL":""
+            },
+            {
+                "ID":341160031,
+                "Name":"パンプキンズナイトメア",
+                "Artist":"るなちゅ",
+                "Level":[
+                    3,
+                    6,
+                    9
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/341160031_yXBfZJoF.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341160031_sidx_jRfwKWiY.m4a&id=341160031&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/341160031_art_s_TWkpapNK.jpg",
+                "HDArtworkURL":""
+            },
+            {
+                "ID":311160032,
+                "Name":"ウミユリ海底譚",
+                "Artist":"n-buna",
+                "Level":[
+                    3,
+                    6,
+                    8
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/311160032_GhCdBLMh.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F311160032_sidx_giNZEMdz.m4a&id=311160032&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/311160032_art_s_LLuYwWeN.jpg",
+                "HDArtworkURL":""
+            }
+        ]
+    },
+    
+    {
+        "ID":10319,
+        "Name":"ニコニコ・ミュージック pack 07",
+        "Comment":"ニコニコ動画で話題の楽曲をギュッと凝縮した、ニコニコできるパックです。\n新進気鋭のアーティストが成す、オリジナリティ溢れる楽曲の数々！その中でも、特に選りすぐりをjubeat plus向けにピックアップ！",
+        "ShortComment":"ハロー・ニューワールド\nだるまさんがころんだ\n嫉妬心\nゆっくりしていってね！！！",
+        "IsNew":false,
+        "Copyright":"℗n.k ℗犬丸芝居小屋 ℗*Luna ℗今日犬",
+        "ArtworkURL":"https://agx-dl.konami.net/agx/image/10319_sd_LpgzobRa.jpg",
+        "HDArtworkURL":"https://agx-dl.konami.net/agx/image/10319_hd_FdudovLx.jpg",
+        "RegularPriceJPY":500,
+        "ArtistURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/artist/?url=http%3A%2F%2Fwww.nicovideo.jp%2F&id=10319&target=JP",
+        "ArtistBannerURL":"公式サイト",
+        "MusicList":[
+            {
+                "ID":341160025,
+                "Name":"ハロー・ニューワールド",
+                "Artist":"n.k",
+                "Level":[
+                    3,
+                    6,
+                    8
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/341160025_qekrKNMb.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341160025_sidx_PUGnXhXa.m4a&id=341160025&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/341160025_art_s_NYRXAVPa.jpg",
+                "HDArtworkURL":""
+            },
+            {
+                "ID":341160026,
+                "Name":"だるまさんがころんだ",
+                "Artist":"犬丸芝居小屋",
+                "Level":[
+                    3,
+                    7,
+                    9
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/341160026_RaQkNRaP.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341160026_sidx_JkNmyvwe.m4a&id=341160026&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/341160026_art_s_wkZkvQjR.jpg",
+                "HDArtworkURL":""
+            },
+            {
+                "ID":341160027,
+                "Name":"嫉妬心",
+                "Artist":"*Luna",
+                "Level":[
+                    2,
+                    6,
+                    8
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/341160027_cdWgspwS.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341160027_sidx_WWBiCbvf.m4a&id=341160027&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/341160027_art_s_pYDuKQmu.jpg",
+                "HDArtworkURL":""
+            },
+            {
+                "ID":341160028,
+                "Name":"ゆっくりしていってね！！！",
+                "Artist":"今日犬",
+                "Level":[
+                    3,
+                    5,
+                    9
+                ],
+                "ItemURL":"https://agx-dl.konami.net/agx/data/341160028_sKjavJHs.jbt",
+                "SampleURL":"https://agx.s.konaminet.jp/agx/main/cgi/link/sample_music/?url=https%3A%2F%2Fagx-dl.konami.net%2Fagx%2Fthumb%2F341160028_sidx_DTywuVHi.m4a&id=341160028&target=JP",
+                "iTunesURL":"",
+                "ArtworkURL":"https://agx-dl.konami.net/agx/image/341160028_art_s_kmiUZQLK.jpg",
+                "HDArtworkURL":""
+            }
+        ]
+    },
+    {
         "ID":10400,
         "Name":"Jazztronik pack",
         "Comment":"",

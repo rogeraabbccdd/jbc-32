@@ -1,6 +1,17 @@
 <?php
 $downloadList = [
-
+    'M341160025' => 'https://agx-dl.konami.net/agx/data/341160025_qekrKNMb.jbt',
+    'M341160026' => 'https://agx-dl.konami.net/agx/data/341160026_RaQkNRaP.jbt',
+    'M341160027' => 'https://agx-dl.konami.net/agx/data/341160027_cdWgspwS.jbt',
+    'M341160028' => 'https://agx-dl.konami.net/agx/data/341160028_sKjavJHs.jbt',
+    'M341160029' => 'https://agx-dl.konami.net/agx/data/341160029_KbLLKbNk.jbt',
+    'M341160030' => 'https://agx-dl.konami.net/agx/data/341160030_tAaHeoYn.jbt',
+    'M341160031' => 'https://agx-dl.konami.net/agx/data/341160031_yXBfZJoF.jbt',
+    'M311160032' => 'https://agx-dl.konami.net/agx/data/311160032_GhCdBLMh.jbt',
+    'M311410005' => 'https://agx-dl.konami.net/agx/data/311410005_KaouqvPV.jbt',
+    'M311410006' => 'https://agx-dl.konami.net/agx/data/311410006_EZNKeyWD.jbt',
+    'M311410007' => 'https://agx-dl.konami.net/agx/data/311410007_fQjVwWqa.jbt',
+    'M311410008' => 'https://agx-dl.konami.net/agx/data/311410008_ywhMhStP.jbt',
     'M321050101' => 'https://agx-dl.konami.net/agx/data/321050101NiNUkq.jbt',
     'M220000101' => 'https://agx-dl.konami.net/agx/data/220000101.jbt',
     'M220000102' => 'https://agx-dl.konami.net/agx/data/220000102.jbt',
